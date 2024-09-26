@@ -22,7 +22,7 @@ Certifique-se de ter os seguintes itens instalados em seu sistema:
 2. **Instale as dependências**
 
     Navegue até o diretório do projeto e instale os módulos necessários usando o npm:
-```bash
+   ```bash
     npm install
-```
+   ```
     Este comando instalará o express e outras dependências listadas no arquivo package.json.
