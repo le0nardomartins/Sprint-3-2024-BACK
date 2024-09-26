@@ -14,10 +14,10 @@ Certifique-se de ter os seguintes itens instalados em seu sistema:
 1. **Clone o repositório**
 
    Primeiro, clone o repositório do projeto para sua máquina:
-```bash
+   ```bash
    git clone <URL do repositório>
    cd <nome-do-repositório>
-```
+   ```
 
 2. **Instale as dependências**
 
